@@ -1,7 +1,7 @@
 UFS Tool ver 1.0
 
 1) Description:
-	The tool uses the BSG infrastructure in linux kernel (applied to 4.20) in order to read/write device flags
+	This tool uses the BSG infrastructure in linux kernel (applied to 4.20) in order to read/write device flags
 	and attributes.
 	Due to UFS BSG driver limitations, the tool uses the BSG infrastructure in linux kernel (applied to 4.20) 
 	in order to read/write device flags and attributes.
